@@ -1,0 +1,1 @@
+{"name":"Local: tresure_test","url":"c:\\Users\\HP\\OneDrive\\Desktop\\codeforces\\tresure_test.cpp","tests":[{"id":1699024556848,"input":"3\n5 7 2\n10 5 0\n5 8 2","output":"7\n10\n9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\Desktop\\codeforces\\tresure_test.cpp","group":"local","local":true}

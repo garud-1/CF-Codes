@@ -1,0 +1,1 @@
+{"name":"Local: string_equalization","url":"c:\\Users\\HP\\OneDrive\\Desktop\\codeforces\\string_equalization.cpp","tests":[{"id":1698912863594,"input":"3\nxabb\naabx\ntechnocup\ntechnocup\na\nz","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\Desktop\\codeforces\\string_equalization.cpp","group":"local","local":true}
